@@ -6,7 +6,7 @@ This project analyzes customer churn behavior using Power BI. The dashboard prov
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Screenshot 2026-06-16 002336.png)
 
 ---
 
@@ -111,11 +111,3 @@ Stacked bar chart showing revenue contribution by:
 - Customer tenure has a strong relationship with churn behavior.
 
 ---
-
-## 👨‍💻 Author
-
-Akash Patil
-
-LinkedIn: [Your LinkedIn Profile]
-
-GitHub: [Your GitHub Profile]
