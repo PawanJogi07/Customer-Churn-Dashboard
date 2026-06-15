@@ -6,7 +6,7 @@ This project analyzes customer churn behavior using Power BI. The dashboard prov
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot]"C:\Users\ak200\Pictures\Screenshots\img.png.png")
+![Dashboard Screenshot]"C:\Users\ak200\Pictures\Screenshots\img.png.pngimg.png.png")
 
 ---
 
